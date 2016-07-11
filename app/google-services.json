@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296987022617",
+    "firebase_url": "https://waste-manager.firebaseio.com",
+    "project_id": "waste-manager",
+    "storage_bucket": "waste-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296987022617:android:84c73ec7d2417157",
+        "android_client_info": {
+          "package_name": "app.booking.taxi.wastemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296987022617-7m5hq9vsgtf0it401lfmfumdnt7prq84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.booking.taxi.wastemanager",
+            "certificate_hash": "4717F528E3B62D915DCAA5C9639091C07A0EE073"
+          }
+        },
+        {
+          "client_id": "296987022617-6qntvdcofb7leees9260n7gdplh1i3ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuVT058Djq0t5ZTGUHQy768t5Y_23UDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296987022617-6qntvdcofb7leees9260n7gdplh1i3ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
